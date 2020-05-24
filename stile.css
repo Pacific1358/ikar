@@ -1,0 +1,45 @@
+ body {
+	background-image: url(fon_alt.jpg);
+	min-height:100%;
+	background-size:cover;
+	 background-attachment: fixed;
+	 font-family: "Impact";
+	 	font-size: 1.3em;
+			color: Silver
+}
+table, td, tr {
+  font-family: "Impact";
+   font-size: 1.1em;
+     color: Silver
+}
+a {
+text-decoration: none;
+cursor: default;
+font-family: "Impact";
+color: Khaki
+}
+p{
+  font-family: "FreeMono";
+	color: Silver;
+	text-indent: 15px
+}
+h1{
+	font-family: "FreeMono";
+	color: Khaki;
+	text-indent: 25px
+}
+h2{
+	font-family: "FreeMono";
+	color: Khaki;
+	text-indent: 25px
+}
+h4{
+	font-family: "FreeMono";
+	color: Khaki;
+	text-indent: 25px
+}
+ul, li{
+  font-family: "FreeMono";
+	color: Silver;
+	text-indent: 25px
+}
